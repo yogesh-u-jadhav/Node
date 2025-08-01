@@ -30,7 +30,7 @@ public class Customer implements Runnable{
 
         }else{
 
-            System.out.println("Insufficent Balence");
+            System.out.println("Insufficent Balence, first earn something");
 
         }s1.close();
     }
